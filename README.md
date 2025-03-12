@@ -1,2 +1,2 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Kotlin Functional Programming: Lambdas, Higher-oder Functions, and Lambda Expressions  
