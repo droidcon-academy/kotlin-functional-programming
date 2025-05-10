@@ -1,4 +1,4 @@
-package section6
+package section7
 
 /*
  * Labeled Returns in Lambdas:

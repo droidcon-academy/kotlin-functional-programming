@@ -8,3 +8,4 @@
 ---
 
 1. [SAMConstructor.kt](./SAMConstructor.kt) – Single Abstract Method (SAM) Constructor
+2. [FunctionComposition.kt](./FunctionComposition.kt) - Function Composition
